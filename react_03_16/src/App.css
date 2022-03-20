@@ -1,0 +1,68 @@
+
+.d-flex {
+    display: flex;
+}
+.column {
+    flex-direction: column;
+}
+input {
+    width: 300px;
+    margin: 5px;
+
+}
+.j-center {
+    justify-content: center;
+}
+.a-center {
+    align-items: center;
+}
+
+.mr20 {
+    margin-right: 20px;
+}
+.wrap {
+    flex-wrap: wrap;
+}
+img {
+    width: 200px;
+    height: 200px;
+
+}
+.toolbar {
+    height: 60px;
+    background-color: rgba(232,221,202,0.73);
+    align-items: center;
+    padding-left: 20px;
+}
+.mt-100 {
+    margin-top: 100px;
+}
+.space-btw {
+    justify-content: space-between;
+}
+.grow1 {
+    flex: 1;
+}
+button {
+    margin: 10px;
+    width: 100px;
+    padding: 10px;
+}
+label {
+    margin-left: 100px;
+}
+.productCard {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgba(148,184,109,0.73);
+}
+.singleCard {
+    background-color: rgba(184,167,79,0.73);
+    padding: 50px;
+}
+.singleCard img {
+    margin: 10px;
+    width: 300px;
+    height: 300px;
+}
